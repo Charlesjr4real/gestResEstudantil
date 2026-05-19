@@ -1,0 +1,22 @@
+[
+    {
+        "numero": 101,
+        "tipo": "Individual",
+        "estado": "Disponível"
+    },
+    {
+        "numero": 102,
+        "tipo": "Duplo",
+        "estado": "Ocupado"
+    },
+    {
+        "numero": 103,
+        "tipo": "Individual",
+        "estado": "Disponível"
+    },
+    {
+        "numero": 104,
+        "tipo": "Triplo",
+        "estado": "Disponível"
+    }
+]
